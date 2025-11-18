@@ -2,8 +2,11 @@
 Satellite Image Understanding using Transformers | EuroSAT Dataset
 
 This repository contains a Multi-Task SegFormer-based deep learning framework capable of performing:
+
 -Image Classification
+
 -Semantic Segmentation
+
 -(Optional) Change Detection
 
 The model is trained on a cleaned EuroSAT dataset and supports a fully automated end-to-end pipeline.
